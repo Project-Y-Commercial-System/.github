@@ -1,12 +1,10 @@
-## Hi there 👋
+# Project Y · LogiMo
 
-<!--
+We build LogiMo, a fleet management platform for live vehicle tracking,
+trip monitoring, fleet analytics, and driver workflows.
 
-**Here are some ideas to get you started:**
+Our platform includes a web dashboard, mobile apps for fleet teams and drivers,
+and services that turn GPS telemetry into useful fleet information.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Organization members can find development and operations resources in the
+**Member** view of this page.
